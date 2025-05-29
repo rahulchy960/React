@@ -1,9 +1,11 @@
 import NewComponent from "./newComponent";
+import UseState from "./UseState";
 function App() {
   return (
     <>
     <h1>Hello React</h1>
     <NewComponent/>
+    <UseState/>
     <h2>Render different component in react App</h2>
     </>
   );
